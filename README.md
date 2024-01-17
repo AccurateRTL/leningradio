@@ -28,7 +28,7 @@ The Leningrad I/O subsystem is designed to complement system-on-chip systems wit
   - Software library of interface functions.
 * Ensuring simple replacement of blocks dependent on SoC manufacturing technology.
 * Possibility of configuration.
-* Using a dependency management system in the source code.
+* Dependency management tools.
 * Availability of tools to automate the use of EDA tools.
 * Availability of automation tools for documentation.
 
