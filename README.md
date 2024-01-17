@@ -17,7 +17,7 @@
 
 # Configurable input/output subsystem "Leningrad" [EN]
 
-The Leningrad I/O subsystem is designed to complement system-on-chip systems with peripheral devices. 
+The Leningrad I/O subsystem is designed to complement system-on-chip with peripheral devices. 
 
 ## Features
 
