@@ -1,0 +1,8 @@
+package:
+  name: LeningradIO
+
+dependencies:
+  lio_i8080: { git: "https://github.com/AccurateRTL/lio_i8080.git", rev: master}
+
+workspace:
+  checkout_dir: hw/ip
